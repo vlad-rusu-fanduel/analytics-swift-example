@@ -9,6 +9,6 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target = "15.0"
   spec.requires_arc = true
   spec.swift_version = "5.0"
-  spec.source = { :git => 'https://github.com/vlad-rusu-fanduel/analytics-swift-example', :tag => '1.1' }
+  spec.source = { :git => 'https://github.com/vlad-rusu-fanduel/analytics-swift-example', :tag => '1.2' }
   spec.dependency 'Sovran'
 end
