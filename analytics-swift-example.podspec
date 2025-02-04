@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   }
   spec.source = {
     :git => "https://github.com/vlad-rusu-fanduel/analytics-swift-example",
-    :tag => "v#{spec.version}",
+    :tag => "1.1",
   }
   spec.ios.deployment_target = "13.0"
   spec.requires_arc = true
